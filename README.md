@@ -1,4 +1,4 @@
-# shdrp-web
+# shaderpad
 
 Um pequeno laboratório de fragment shaders no navegador.
 
