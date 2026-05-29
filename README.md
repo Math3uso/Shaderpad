@@ -16,6 +16,7 @@ O `shdrp-web` junta um editor de código com um canvas WebGL2 para testar shader
 
 O vertex shader desenha dois triângulos cobrindo a tela inteira. A parte interessante fica no fragment shader: cada pixel é calculado pelo código editado, então dá para criar gradientes, animações, distorções, ruídos e qualquer outro experimento que caiba em GLSL ES 3.00.
 
+
 ## Stack
 
 - Next.js 16 com App Router
