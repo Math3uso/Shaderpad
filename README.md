@@ -120,4 +120,4 @@ src/app/globals.css              Estilos globais e Tailwind
 
 ## Requisitos do navegador
 
-É necessário um navegador com suporte a WebGL2. Se o contexto WebGL2 não estiver disponível, a aplicação registra o problema no painel de logs.
+É necessário um navegador com suporte a WebGL2. Se o contexto WebGL2 não estiver disponível, a aplicação registra o problema no painel de logs
